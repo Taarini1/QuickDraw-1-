@@ -1,0 +1,39 @@
+body{
+    background-color: linear-gradient(#55a0cf , #aacf55 , #cf5555);
+}
+
+#your_sketch{
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    font-weight: bold;
+}
+
+#confidence{
+    background-color: rgb(240, 134, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(163, 42, 165);
+    font-weight: bold;
+}
+
+#sketch_to_be_drawn{
+    background-color: rgb(102, 240, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(56, 42, 165);
+    font-weight: bold;
+}
+
+#score{
+    background-color: rgb(240, 145, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(56, 42, 165);
+    font-weight: bold;
+}
+
+#timer{
+    background-color: rgb(240, 145, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(56, 42, 165);
+    font-weight: bold;
+}
+
